@@ -2,6 +2,6 @@
   "name": "Simply Staking",
   "website": "https://simplystaking.com",
   "description": "Simply Staking runs highly reliable infrastructure in our own datacentre in Malta, built with the aim of supporting the growth of the blockchain ecosystem.",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/SimplyStaking/eigen-operator/main/logo.png",
   "twitter": "https://x.com/simplystaking"
 }
